@@ -1,15 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Li JUN'S homepage
 
-You can use the [editor on GitHub](https://github.com/L-max-maker/l-max-maker.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an undergraduate studying in zhejiang wanli college in China.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+name:    Jun Li  (李俊）
 
-### Markdown
+mailbox：LIWENBAISYsy@163.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+address：LinQuan county, FuYang city, AnHui province
+### About me
 
-```markdown
-Syntax highlighted code block
+Academic situation:
+In June 2019, I experienced the first major turning point in my life - college entrance examination.Then in September 2019, I officially entered Wanli college and became a member of Wanli college.
+
+Character traits：
+
+In front of strangers, I may be a person who is not sociable. In the crowd, I tend to be the most silent one. But in front of friends, I have a different look。
+
+
 
 # Header 1
 ## Header 2
